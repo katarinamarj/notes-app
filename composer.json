@@ -1,0 +1,17 @@
+{
+    "name": "hp/notes-app",
+    "autoload": {
+        "psr-4": {
+            "Hp\\NotesApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "katarinamarj",
+            "email": "katarinamarjanovic02@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.15"
+    }
+}
